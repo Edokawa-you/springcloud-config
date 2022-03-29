@@ -1,5 +1,2 @@
-server:
-  port: 8010
-spring:
-  application:
-    name: ljy
+config:
+ info: ljy study
