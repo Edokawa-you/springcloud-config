@@ -1,3 +1,5 @@
 server:
   port: 800888
-#我是江户川柯南
+spring:
+  application:
+    name: ljy
